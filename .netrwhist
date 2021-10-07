@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/khanh/Documents/reactjs/todo/src/components'
+let g:netrw_dirhist_0='/home/khanh/Documents/reactjs/todo/src'
+let g:netrw_dirhist_9='/home/khanh/Documents/reactjs/todo'
+let g:netrw_dirhist_8='/home/khanh/Documents/reactjs/todo/src'
+let g:netrw_dirhist_7='/home/khanh/Documents/reactjs/todo/src/components'
+let g:netrw_dirhist_6='/home/khanh/Documents/reactjs/todo/src'
+let g:netrw_dirhist_5='/home/khanh/Documents/reactjs/todo'
+let g:netrw_dirhist_4='/home/khanh/Documents/reactjs/todo/src/components'
+let g:netrw_dirhist_3='/home/khanh/Documents/reactjs/todo/src'
+let g:netrw_dirhist_2='/home/khanh/Documents/reactjs/todo/src/pages'
